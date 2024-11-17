@@ -6,3 +6,5 @@ int summation(int num){
 }
 
 // Another 8 kyu kata.
+// I felt REALLY dumb after seeing the solutions others had...
+// "Work smarter, not harder" indeed.
